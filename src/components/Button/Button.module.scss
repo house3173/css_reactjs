@@ -1,0 +1,26 @@
+.btn {
+    /* color: white;
+    background-color: #333; */
+    border-radius: 6px;
+    padding: 5px;
+    min-width: 100px;
+
+    &:hover {
+        cursor: pointer;
+        opacity: 0.7;
+    }
+}
+
+.active {
+    background-color: #db1111;
+}
+
+.primary {
+    color: white;
+    background-color: #007bf5;
+}
+
+.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
