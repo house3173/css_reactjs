@@ -4,6 +4,7 @@ function Content() {
     return (
         <>
             <p>Test nhanh dev!!!</p>
+            <p>Test merge terminal!</p>
             <p className={styles.paragraph}> Toi la Trinh Van Hau day ne!</p>
         </>
     )
